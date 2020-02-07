@@ -1,43 +1,13 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/rarolabs/Documents/projects/study/api-rest-rails/app/mailers/application_mailer.rb": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "/Users/rarolabs/Documents/projects/study/api-rest-rails/app/models/application_record.rb": [
-        0,
-        0,
-        0
-      ],
-      "/Users/rarolabs/Documents/projects/study/api-rest-rails/app/jobs/application_job.rb": [
-        0,
-        null,
-        null,
-        null,
-        null,
-        null,
-        0
-      ],
-      "/Users/rarolabs/Documents/projects/study/api-rest-rails/app/controllers/application_controller.rb": [
-        0,
-        0
-      ],
-      "/Users/rarolabs/Documents/projects/study/api-rest-rails/app/channels/application_cable/connection.rb": [
-        0,
-        0,
-        0,
-        0
-      ],
-      "/Users/rarolabs/Documents/projects/study/api-rest-rails/app/channels/application_cable/channel.rb": [
-        0,
-        0,
-        0,
-        0
-      ]
+      "/Users/rarolabs/Documents/projects/study/api-rest-rails/app/models/user.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      }
     },
-    "timestamp": 1581082868
+    "timestamp": 1581103700
   }
 }
