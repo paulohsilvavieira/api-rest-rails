@@ -1,43 +1,47 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/rarolabs/Documents/projects/study/api-rest-rails/app/controllers/authentication_controller.rb": {
-        "lines": [
-          1,
-          1,
-          null,
-          1,
-          1,
-          1,
-          1,
-          1,
-          null,
-          null,
-          null,
-          0,
-          null,
-          null,
-          null,
-          1,
-          null,
-          1,
-          0,
-          null,
-          null
-        ]
-      },
       "/Users/rarolabs/Documents/projects/study/api-rest-rails/app/models/user.rb": {
         "lines": [
-          1,
-          1,
-          1,
+          0,
+          0,
+          0,
           null,
-          1,
-          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/rarolabs/Documents/projects/study/api-rest-rails/app/controllers/authentication_controller.rb": {
+        "lines": [
+          0,
+          0,
           null,
-          1,
-          null
-        ]
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
       },
       "/Users/rarolabs/Documents/projects/study/api-rest-rails/app/controllers/user_controller.rb": {
         "lines": [
@@ -99,6 +103,6 @@
         }
       }
     },
-    "timestamp": 1581373162
+    "timestamp": 1581373644
   }
 }
