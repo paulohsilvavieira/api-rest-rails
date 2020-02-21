@@ -4,7 +4,7 @@ class Jsonwebtoken
   def self.encode(user, exp = 24.hours.from_now)
     payload = {}
     payload[:exp] = exp.to_i
-    payload[:user] = user
+    payload[:user_id] = user
     JWT.encode(payload, SECRET_KEY)
   end
 
