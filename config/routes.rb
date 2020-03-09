@@ -4,4 +4,5 @@ Rails.application.routes.draw do
   put 'users/profile', to: 'users#update'
   delete 'users/profile', to: 'users#destroy'
   post '/auth/login', to: 'authentication#login'
+  resources :projects
 end
